@@ -1,5 +1,4 @@
 /* eslint-env node */
-var path = require('path');
 'use strict';
 
 // Ensures tests can find the dummy app config directory
